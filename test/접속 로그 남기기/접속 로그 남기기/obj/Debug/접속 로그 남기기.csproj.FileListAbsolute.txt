@@ -1,0 +1,10 @@
+D:\CS\test\접속 로그 남기기\접속 로그 남기기\bin\Debug\접속 로그 남기기.exe.config
+D:\CS\test\접속 로그 남기기\접속 로그 남기기\bin\Debug\접속 로그 남기기.exe
+D:\CS\test\접속 로그 남기기\접속 로그 남기기\bin\Debug\접속 로그 남기기.pdb
+D:\CS\test\접속 로그 남기기\접속 로그 남기기\obj\Debug\접속 로그 남기기.csproj.AssemblyReference.cache
+D:\CS\test\접속 로그 남기기\접속 로그 남기기\obj\Debug\접속 로그 남기기.csproj.SuggestedBindingRedirects.cache
+D:\CS\test\접속 로그 남기기\접속 로그 남기기\obj\Debug\접속_로그_남기기.Properties.Resources.resources
+D:\CS\test\접속 로그 남기기\접속 로그 남기기\obj\Debug\접속 로그 남기기.csproj.GenerateResource.cache
+D:\CS\test\접속 로그 남기기\접속 로그 남기기\obj\Debug\접속 로그 남기기.csproj.CoreCompileInputs.cache
+D:\CS\test\접속 로그 남기기\접속 로그 남기기\obj\Debug\접속 로그 남기기.exe
+D:\CS\test\접속 로그 남기기\접속 로그 남기기\obj\Debug\접속 로그 남기기.pdb

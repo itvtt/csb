@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "AF": "Server=My_SERVER;Database=mydatabase;User Id=YOUR_USER;Password=YOUR_PASSWORD;MultipleActiveResultSets=true",
+
+    "AF2": "Server=My_SERVER;Database=mydatabase;User Id=YOUR_USER;Password=YOUR_PASSWORD;MultipleActiveResultSets=true"
+  }
+}  

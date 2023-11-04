@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "셀선택해제 테스트", "셀선택해제 테스트\셀선택해제 테스트.csproj", "{AFD6B049-7016-48D0-B1C2-F3ED8282CAA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD6B049-7016-48D0-B1C2-F3ED8282CAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD6B049-7016-48D0-B1C2-F3ED8282CAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD6B049-7016-48D0-B1C2-F3ED8282CAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD6B049-7016-48D0-B1C2-F3ED8282CAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8FD40C4-9413-4A8B-BD54-633E48C5BBD8}
+	EndGlobalSection
+EndGlobal
