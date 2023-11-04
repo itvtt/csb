@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Btn_Pack",
-    "\\Btn_Pack\\Button_Pack",
-    "\\Btn_Pack\\Button_Pack\\Button_Pack",
-    "\\DB",
-    "\\DB\\DB",
-    "\\DB\\DB\\DB"
+    "\\test",
+    "\\test\\lotto",
+    "\\test\\lotto\\lotto"
   ],
-  "SelectedNode": "\\Btn_Pack\\Button_Pack\\Button_Pack\\Form1.cs",
+  "SelectedNode": "\\test\\lotto\\lotto\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
